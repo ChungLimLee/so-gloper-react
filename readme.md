@@ -1,4 +1,4 @@
-# 🧩 SoGloper 0.8.1-alpha (so-gloper-react) — Library
+# 🧩 SoGloper 0.8.0-alpha (so-gloper-react) — Library
 
 **SoGloper** is a dataflow engine and global state management library that provides **minimal boilerplate**, **flexible dual operation modes**, **clean namespacing control**, **optional namespace-integrated persistence** and much more.
 ---
