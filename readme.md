@@ -21,7 +21,7 @@
 
 * **Programmatic API** — Useful for programmatic controls and debugging: `get()`, `set()`, `list()`, `reset()`, `remove()`.
 
-  * Dynamic state creations using `createGloper` to prepared for use in component and/or in code.
+  * Dynamic state creations using `createGloper` to prepare for use in component and/or in code.
   
 * **Built-in and Namespace-integrated Persistence** — Supports both IndexedDB (async) and type-preserving LocalStorage (sync) out-of-the-box.
 
