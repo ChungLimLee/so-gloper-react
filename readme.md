@@ -196,5 +196,4 @@ SoGloper.configure({
 * 🧪 **Exploration** — Developer-friendly debugging tools
 * 🔬 **Future** — Full Control Mode with symbolic references, IDE ergonomics, and advanced state flows
 
-
 ---
