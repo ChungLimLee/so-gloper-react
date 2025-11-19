@@ -47,7 +47,7 @@ npm install so-gloper-react
 
 ## 📝 Relax Mode (Overview)
 
-* Suitable for less complex projects
+* Suitable for less complex projects.
 
 * Define global state: createGloper('auth_token', { state: '123', persist: true });
 
